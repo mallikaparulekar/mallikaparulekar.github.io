@@ -13,14 +13,9 @@
           <img src="img/ztangle.svg" width = "150" height =  "150" >
           {% endif %}
 
-          {% if site.description == true or site.enable_contact == true %}
-
           <p class="text-center">
-            {% if site.description == true %}
             {% include description-content.html %}
-            {% endif %}
           </p>
-          {% endif %}
 
 
 
@@ -40,6 +35,10 @@
 
           <p class="text-center">
             {% include research-content.html %}
+          </p>
+
+          <p class="text-center">
+            {% include projects-content.html %}
           </p>
 
         </div>

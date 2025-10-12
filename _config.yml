@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "mallika parulekar "
 email: 'mallika.parulekar@berkeley.edu'
-description: true
+description: "Computer Science Student at Stanford"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 #change this!!

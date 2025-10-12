@@ -1,0 +1,5 @@
+- title: "CookieBot"
+  description: "Built and designed a 2 robot system to cut, handoff, and flatten cookie dough slices using 3D printed tools. Used Grounded Dino and Segment Anything (SAM) for vision"
+  image: "/img/CookieBot.png"
+  paper_url: "https://drive.google.com/file/d/1ZGL_9ay89he80Zp82YwtGZEyOPjarhko/view?usp=sharing"
+  featured: true
